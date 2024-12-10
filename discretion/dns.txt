@@ -6,7 +6,7 @@ dns.qiyipic.iqiyi.com
 dns.weibo.cn
 dns.weixin.qq.com
 dns.weixin.qq.com.cn
-doh.dns.apple.com
+#doh.dns.apple.com
 doh.iqiyi.com
 doh.ptqy.gitv.tv
 dotserver.douyucdn.cn
